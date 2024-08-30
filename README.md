@@ -8,7 +8,7 @@ If you enter a bad line number or if something's wrong, it will let you know.
 ## Setup
 Before running the program, make sure you have the following installed:
 
-   Node.js: This program requires Node.js to run. You can download it from nodejs.org.
+  - **Node.js**: This program requires Node.js to run. You can download it from nodejs.org.
 
 
 ## How to Run
