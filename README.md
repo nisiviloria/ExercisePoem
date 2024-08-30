@@ -19,7 +19,7 @@ Open terminal and run the following:
       node readpoem.js 
 
 ### User Input
-| Input  | Description                     |
+| Parameter  | Description                     |
 |--------|---------------------------------|
 | number | Any digit from 1 to 16 (e.g., 1, 2, 3... 16)|
 |   q    | To quit the program              |
